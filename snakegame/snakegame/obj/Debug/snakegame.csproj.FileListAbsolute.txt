@@ -1,0 +1,6 @@
+D:\Jenya\Projects\snake\snakegame\snakegame\bin\Debug\snakegame.exe.config
+D:\Jenya\Projects\snake\snakegame\snakegame\bin\Debug\snakegame.exe
+D:\Jenya\Projects\snake\snakegame\snakegame\bin\Debug\snakegame.pdb
+D:\Jenya\Projects\snake\snakegame\snakegame\obj\Debug\snakegame.csprojResolveAssemblyReference.cache
+D:\Jenya\Projects\snake\snakegame\snakegame\obj\Debug\snakegame.exe
+D:\Jenya\Projects\snake\snakegame\snakegame\obj\Debug\snakegame.pdb
