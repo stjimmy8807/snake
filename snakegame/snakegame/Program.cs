@@ -10,9 +10,11 @@ namespace snakegame
     {
         static void Main(string[] args)
         {
-            HorizontalLine upLine = new HorizontalLine(0,78,0,'+');
+            Console.SetBufferSize(120, 30);
+
+            HorizontalLine upLine = new HorizontalLine(0, 78, 0,'+');
             HorizontalLine downLine = new HorizontalLine(0, 78, 24, '+');
-            VerticalLine leftLine = new VerticalLine(0,24,0,'+');
+            VerticalLine leftLine = new VerticalLine(0, 24, 0,'+');
             VerticalLine rightLine = new VerticalLine(0, 24, 78, '+');
             upLine.Drow();
             downLine.Drow();
